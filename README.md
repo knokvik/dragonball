@@ -1,10 +1,22 @@
-# knokvik
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Dragon_Ball_Z_logo.svg/3543px-Dragon_Ball_Z_logo.svg.png" alt="Dragon Ball Z Logo" width="300">
+</p>
 
-A new Flutter project.
+# Dragon Ball Digital Cards
 
-## Getting Started
+A fan-made Flutter app that lets you explore all Dragon Ball characters as collectible digital cards — inspired by the original Dragon Ball Z universe.
 
-This project is a starting point for a Flutter application.
+---
+
+## 📸 Screenshot
+<img width="1470" height="956" alt="Screenshot 2025-08-13 at 11 06 11 AM" src="https://github.com/user-attachments/assets/b9546349-5734-4832-894a-41ea9a263e5d" />
+---
+
+## 🚀 Run the App
+
+```bash
+flutter pub get
+flutter run
 
 A few resources to get you started if this is your first Flutter project:
 
